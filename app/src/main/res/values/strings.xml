@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Dinan, my town</string>
+
+    <string name="category_monuments">Monuments</string>
+    <string name="tour_horloge">Tour de l\'Horloge</string>
+    <string name="chateau_dinan">Château de Dinan</string>
+    <string name="maison_gouverneur">La Maison du Gouverneur</string>
+    <string name="basilique_saint_sauveur">La basilique Saint-Sauveur</string>
+    <string name="abbaye_lehon">L\'abbaye de Lehon</string>
+    <string name="eglise_saint_malo">L\'Eglise Saint Malo</string>
+    <string name="remparts">Les Remparts</string>
+    <string name="musee_haffen">Musée Yvonne Jean Haffen</string>
+    <string name="adress_tourhorloge">23 Rue de l\'Horloge, 22100 Dinan</string>
+    <string name="adress_chateau">Château de Dinan, 22100 Dinan</string>
+    <string name="adress_maison_gouverneur">24 Rue du Petit Fort, 22100 Dinan</string>
+    <string name="adress_basilique">14 Place Saint-Sauveur, 22100 Dinan</string>
+    <string name="adress_abbaye">18 Le Bourg, 22100 Léhon</string>
+    <string name="adress_eglise_saint_malo">12 Rue du Chanoine Meinser, 22100 Dinan</string>
+    <string name="adress_remparts">Les Remparts</string>
+    <string name="adress_musee_haffen">103 Rue du Quai, 22100 Dinan</string>
+
+    <string name="category_restaurants">Restaurants</string>
+    <string name="trois_lunes">Les 3 Lunes</string>
+    <string name="mere_pourcel">La Mère Pourcel</string>
+    <string name="atypique">L\'Atypique</string>
+    <string name="pub_saint_sauveur">Pub Saint-Sauveur</string>
+    <string name="creperie_ahna">Crêperie Ahna</string>
+    <string name="tomate">La Tomate</string>
+    <string name="nez_rouge">Le Nez Rouge</string>
+    <string name="dici_dela">D\'ici delà</string>
+    <string name="adress_troislunes">22 Rue de la Lainerie, 22100 Dinan</string>
+    <string name="adress_merepourcel">3 Place des Merciers, 22100 Dinan</string>
+    <string name="adress_atypique">14 Rue de la Poissonerie, 22100 Dinan</string>
+    <string name="adress_creperieahna">7 Rue de la Poissonnerie, 22100 Dinan</string>
+    <string name="adress_tomate">4 Rue de l\'École, 22100 Dinan</string>
+    <string name="adress_nezrouge">4 Rue de l\'École, 22100 Dinan</string>
+    <string name="adress_dicidela">14 Rue des Rouairies, 22100 Dinan</string>
+
+    <string name="category_bars">Bars</string>
+    <string name="duclos">Le Duclos</string>
+    <string name="cafe_noir">Le Café Noir</string>
+    <string name="argile_et_vin">Argile et Vin</string>
+    <string name="enigme">L\'Enigme</string>
+    <string name="canard_electrik">Le Canard Electrik</string>
+    <string name="zag">Le Zag</string>
+    <string name="saint_sauveur">Saint-Sauveur</string>
+    <string name="adress_saint_sauveur">19 Place Saint-Sauveur, 22100 Dinan</string>
+    <string name="adress_nez_rouge">4 Rue de l\'Ecole, 22100 Dinan</string>
+    <string name="adress_duclos">20 Place Duclos, 22100 Dinan</string>
+    <string name="adress_cafe_noir">14 Place Saint-Sauveur, 22100 Dinan</string>
+    <string name="adress_argile_vin">11 Rue de la Chaux, 22100 Dinan</string>
+    <string name="adress_enigme">1 Rue Haute Voie, 22100 Dinan</string>
+    <string name="adress_canard_electrik">22 Rue de la Chaux, 22100 Dinan</string>
+    <string name="adress_zag">7 Rue du Port, 22100 Dinan</string>
+
+    <string name="category_events">Events</string>
+    <string name="jazz_en_place">Jazz En Place</string>
+    <string name="fete_remparts">La Fête des Remparts</string>
+    <string name="armor_a_sons">Festival L\'Armor à Sons</string>
+    <string name="rencarts">Renc\'Arts sous les Remparts</string>
+    <string name="harpes_celtiques">Festival des Harpes Celtiques</string>
+    <string name="theatre_rance">Theatre en Rance</string>
+    <string name="when_where_jazz">August, Place Saint-Sauveur/Dinan</string>
+    <string name="when_where_fetedesremparts">August, Dinan</string>
+    <string name="when_where_armorsons">July, Bobital</string>
+    <string name="when_where_rencarts">July/ August, Dinan</string>
+    <string name="when_where_harpesceltiques">July, Dinan</string>
+    <string name="when_where_theatrerance">May, Dinan</string>
+
+</resources>
